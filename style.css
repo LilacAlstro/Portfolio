@@ -9,3 +9,10 @@ h1, h2
     color : #4682B4;
     text-align: center;
 }
+
+p 
+{
+    font-family: sans-serif;
+    color: #191970;
+    text-align: center;
+}
