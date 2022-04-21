@@ -7,6 +7,7 @@ header
 {
     background-color:#708090;
     opacity: 0.8;
+    margin: 50px;
 }
 
 header h1 
@@ -28,21 +29,25 @@ p
     font-family: sans-serif;
     color: #191970;
     text-align: center;
+    margin-top: 50px;
 }
 
 footer 
 {
     background-color:#708090;
     opacity: 0.8;
+    margin: 50px;
 }
 
 ul
 {
     font-family: sans-serif;
     color: #191970;
+    margin: 80px;
 }
 
 hr 
 {
      border-top: 5px  dashed #778899;
+     margin-top: 50px;
 }
