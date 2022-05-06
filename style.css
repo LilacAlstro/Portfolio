@@ -50,6 +50,12 @@ article
   margin: 50px;
 }
 
+main
+{
+  border: 1px solid black;
+  margin: 50px;
+}
+
 footer 
 {
   background-color: #708090;
